@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="data-structures_assignment2" Version="10000">
+  <Project Name="data-structures_assignment2" Path="data-structures_assignment2/data-structures_assignment2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="data-structures_assignment2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
