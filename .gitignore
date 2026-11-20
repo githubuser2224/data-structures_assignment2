@@ -1,0 +1,7 @@
+.codelite/
+build-*/
+*.exe
+*.o
+*.obj
+*.mk
+Makefile
